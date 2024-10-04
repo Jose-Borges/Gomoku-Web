@@ -13,6 +13,6 @@ Documentation report:\
 
 # Authors
 ----
-- Vasco Branco
 - José Borges
-- Sérgio Capela
+- [Vasco Branco](https://github.com/Vaasco)
+- [Sérgio Capela](https://github.com/sergiocapela)
