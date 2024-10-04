@@ -13,6 +13,6 @@ Documentation report:\
 
 # Authors
 ----
-- Vasco Branco 48259
-- José Borges 48269
-- Sérgio Capela 46080
+- Vasco Branco
+- José Borges
+- Sérgio Capela
